@@ -9,6 +9,4 @@ It was coded using HTML, CSS, and JavaScript technologies.
 <h2> Screenshot </h2>
 
 ![](screen.gif)
-# restaurantweb
-# restaurantweb
-# restaurantweb
+
